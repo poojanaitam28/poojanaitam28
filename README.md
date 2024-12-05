@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Naitam</h1>
-<h3 align="center">Frontend developer and Aspiring DevOps Engineer.</h3>
+<h3 align="center">Frontend Developer & Aspiring DevOps Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojanaitam28&label=Profile%20views&color=0e75b6&style=flat" alt="poojanaitam28" /> </p>
 
