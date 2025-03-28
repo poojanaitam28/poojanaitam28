@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software Developer Intern with experience in front-end development, API integration, and UI/UX design. Proficient in ReactJS, JavaScript, Node.js, Express.js, and MongoDB. Skilled in DevOps tools like Docker, AWS, CI/CD, and Linux scripting.
+Software Developer Intern with experience in front-end development, API integration, and UI/UX design. Proficient in
+ReactJS, JavaScript, Node.js, Express.js, and MongoDB. Skilled in DevOps tools like Docker, AWS, CI/CD, and Linux
+scripting. Recent MCA graduate passionate about full-stack development and emerging technologies.
 
 
 ## 🌐 Socials:
